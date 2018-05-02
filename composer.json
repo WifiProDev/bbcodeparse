@@ -20,7 +20,7 @@
         "squizlabs/php_codesniffer": "~2"
     },
     "autoload": {
-        "psr-4": {"golonka\\bbcodeparser\\": "src/"}
+        "psr-4": {"Golonka\\BBCode\\": "src/"}
     },
     "minimum-stability": "stable"
 }
